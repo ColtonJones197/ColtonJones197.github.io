@@ -5,7 +5,7 @@ plugins:
 header_pages:
   - about.md
 
-show_downloads: ["false"]
+show_downloads: [false]
 google_analytics: [G-6GFB22D8V6]
 
 title: [Colton Jones Github Page]
