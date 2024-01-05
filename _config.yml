@@ -5,5 +5,8 @@ plugins:
 header_pages:
   - about.md
 
+show_downloads: ["true"]
+google_analytics: [G-6GFB22D8V6]
 
 title: [Colt Jones]
+description: [A bit about me]
