@@ -10,3 +10,8 @@ show_downloads: false
 google_analytics: [G-6GFB22D8V6]
 
 title: "Pages"
+
+titles_from_headings:
+  enabled:     true
+  strip_title: false
+  collections: false
